@@ -84,14 +84,14 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>PopPooB</title>
+        <title>Siputzx</title>
         <meta name="description" content="GPT-4 interface" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.topnav}>
         <div className={styles.navlogo}>
-          <a href="/">PopPooB</a>
+          <a href="/">Siputzx</a>
         </div>
         <div className={styles.navlinks}>
         </div>
@@ -147,7 +147,7 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            <p>Powered by <a href="https://poppoob.com/about" target="_blank">PopPooB</a>.</p>
+            <p>Powered by <a href="https://putuofc.biz.id" target="_blank">Siputzx</a>.</p>
           </div>
         </div>
       </main>
